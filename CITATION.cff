@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Computational Extension of OEIS Sequence A029483"
+message: "If you use this software or data, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Corti"
+    given-names: "Carlo"
+    email: "carlo.corti@outlook.com"
+repository-code: "https://github.com/carcorti/A029483"
+url: "https://github.com/carcorti/A029483"
+abstract: "Computation of new terms of OEIS sequence A029483 using block modular concatenation in base 14."
+keywords:
+  - OEIS
+  - A029483
+  - computational number theory
+  - modular arithmetic
+  - concatenation
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-06-03"

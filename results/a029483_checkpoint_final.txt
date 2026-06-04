@@ -1,0 +1,8 @@
+sequence=A029483
+timestamp=1780470385
+completed_end=300000000000
+next_start=300000000001
+raw_tested=6000000000
+survivors_tested=2571428571
+hits=2
+elapsed_seconds=1917.511

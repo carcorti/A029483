@@ -1,0 +1,25 @@
+# A029483: k such that k divides the left concatenation of 1..k in base 14.
+# Columns:
+#   n: one-based sequence index.
+#   a(n): term value.
+#   source: OEIS for terms already present in the input OEIS record; this-project for newly discovered terms.
+#   certification: independent matrix certificate status recorded after the production run.
+#
+# n a(n) source certification
+1 1 OEIS PASS
+2 13 OEIS PASS
+3 143 OEIS PASS
+4 169 OEIS PASS
+5 221 OEIS PASS
+6 403 OEIS PASS
+7 587 OEIS PASS
+8 11219 OEIS PASS
+9 178357 OEIS PASS
+10 222157 OEIS PASS
+11 85762339 OEIS PASS
+12 1086336563 OEIS PASS
+13 8005332049 OEIS PASS
+14 15081597011 OEIS PASS
+15 44445214853 this-project PASS
+16 243987299933 this-project PASS
+
