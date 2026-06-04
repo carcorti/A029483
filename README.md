@@ -85,8 +85,12 @@ See LICENSE.
 
 If you use this repository, cite the accompanying paper and repository metadata in CITATION.cff.
 
+Repository:
+https://github.com/carcorti/A029483
+
+Zenodo DOI:
+https://doi.org/10.5281/zenodo.20538439
+
 ## Repository status
 
 Initial public release (v1.0).
-
-Zenodo DOI: to be added after GitHub release and Zenodo archival.
